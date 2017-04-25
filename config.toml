@@ -1,0 +1,10 @@
+#baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Заметки на полях"
+theme = "hugo-uno"
+
+[Params]
+description = "Всё, что стоит записать."
+testapp = "https://testing-area.herokuapp.com"
+github = "https://github.com/dark-gray"
+email = "morozov07@bk.ru"
